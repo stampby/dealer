@@ -30,7 +30,8 @@
     "event_probability_base": 0.12,
     "event_cooldown_s": 30,
     "max_active_events": 2,
-    "player_profile_window_s": 60
+    "player_profile_window_s": 120,
+    "level_duration_s": 2400
   },
 
   "fallback": {
