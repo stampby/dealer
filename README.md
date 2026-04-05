@@ -2,7 +2,7 @@
 
 **The game master AI.** *These are the cards you've been dealt. Play it.*
 
-Part of the [halo-ai](https://github.com/bong-water-water-bong/halo-ai) ecosystem. Powers [voxel-extraction](https://github.com/bong-water-water-bong/voxel-extraction).
+Part of the [halo-ai](https://github.com/stampby/halo-ai) ecosystem. Powers [voxel-extraction](https://github.com/stampby/voxel-extraction).
 
 ## What dealer does
 
